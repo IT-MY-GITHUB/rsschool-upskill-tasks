@@ -29,5 +29,8 @@
  #### Whack a Mole game task. HTML/CSS/JS
  https://it-my-github.github.io/rsschool-upskill-tasks/whack-a-mole-game/
  
+ #### Virtual Keyboard. HTML/CSS/JS
+ https://it-my-github.github.io/rsschool-upskill-tasks/virtual-keyboard/
+ 
  
  
