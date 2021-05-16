@@ -1,0 +1,71 @@
+body {
+	font-family: 'Castoro', serif;
+	overflow: hidden;
+	color: #fff;
+}
+
+.app {
+	position: absolute;
+	z-index: -2;
+	top: 0;
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+	background: url('../src/img/ws_1920.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+  	background-position: center;
+}
+
+
+.wrapper {
+	display: flex;
+	width: 100%;
+	height: 100%;
+	z-index: 5;
+	margin: 0 auto;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.buttons {
+	width: 100%;
+	height: 300px;
+	display: flex;
+	flex: 1;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.buttons__key {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: .5rem;
+  margin: 0.3em;
+  font-size: 1.5rem;
+  padding: 1rem .5rem;
+  transition: all .07s ease;
+  width: 8rem;
+  text-align: center;
+  color: white;
+  background: rgba(0,0,0,0.4);
+  text-shadow: 0 0 .5rem black;
+}
+
+kbd {
+	display: block;
+	font-size: 3rem;
+}
+
+.sound {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  color: #988177;
+}
+
+.playing {
+  transform: scale(1.1);
+  border-color: #988177;
+  box-shadow: 0 0 1rem rgba(255, 255, 255, 0.8);
+}
