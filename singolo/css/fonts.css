@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "Lato";
+  src: url("../src/fonts/Lato-Bold.eot");
+  src: local("Lato Bold"), local("Lato-Bold"),
+    url("../src/fonts/Lato-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../src/fonts/Lato-Bold.woff") format("woff"),
+    url("../src/fonts/Lato-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../src/fonts/Lato-Italic.eot");
+  src: local("Lato Italic"), local("Lato-Italic"),
+    url("../src/fonts/Lato-Italic.eot?#iefix") format("embedded-opentype"),
+    url("../src/fonts/Lato-Italic.woff") format("woff"),
+    url("../src/fonts/Lato-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../src/fonts/Lato-Medium.eot");
+  src: local("Lato Medium"), local("Lato-Medium"),
+    url("../src/fonts/Lato-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../src/fonts/Lato-Medium.woff") format("woff"),
+    url("../src/fonts/Lato-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../src/fonts/Lato-Black.eot");
+  src: local("Lato Black"), local("Lato-Black"),
+    url("../src/fonts/Lato-Black.eot?#iefix") format("embedded-opentype"),
+    url("../src/fonts/Lato-Black.woff") format("woff"),
+    url("../src/fonts/Lato-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../src/fonts/Lato-Light.eot");
+  src: local("Lato Light"), local("Lato-Light"),
+    url("../src/fonts/Lato-Light.eot?#iefix") format("embedded-opentype"),
+    url("../src/fonts/Lato-Light.woff") format("woff"),
+    url("../src/fonts/Lato-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../src/fonts/Lato-Thin.eot");
+  src: local("Lato Thin"), local("Lato-Thin"),
+    url("../src/fonts/Lato-Thin.eot?#iefix") format("embedded-opentype"),
+    url("../src/fonts/Lato-Thin.woff") format("woff"),
+    url("../src/fonts/Lato-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../src/fonts/Lato-Regular.eot");
+  src: local("Lato Regular"), local("Lato-Regular"),
+    url("../src/fonts/Lato-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../src/fonts/Lato-Regular.woff") format("woff"),
+    url("../src/fonts/Lato-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
