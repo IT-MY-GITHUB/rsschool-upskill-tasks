@@ -17,5 +17,8 @@
  #### Drum Kit task. HTML/CSS/JS
  https://it-my-github.github.io/rsschool-upskill-tasks/drum-kit/
  
+ #### Dynamic landing page task. HTML/CSS/JS/localStorage
+ https://it-my-github.github.io/rsschool-upskill-tasks/dynamic-landing-page/
+ 
  
  
