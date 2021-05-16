@@ -32,5 +32,8 @@
  #### Virtual Keyboard. HTML/CSS/JS
  https://it-my-github.github.io/rsschool-upskill-tasks/virtual-keyboard/
  
+ #### Workout simple landing page layout. HTML/CSS
+ https://it-my-github.github.io/rsschool-upskill-tasks/landing-page-lapkin-persona/
+ 
  
  
