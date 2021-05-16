@@ -14,4 +14,8 @@
  #### HTML + Canvas task. HTML(Canvas)/CSS
  https://it-my-github.github.io/rsschool-upskill-tasks/fun-with-html5-canvas/
  
+ #### Drum Kit task. HTML/CSS/JS
+ https://it-my-github.github.io/rsschool-upskill-tasks/drum-kit/
+ 
+ 
  
