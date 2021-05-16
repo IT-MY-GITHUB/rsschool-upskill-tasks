@@ -26,5 +26,8 @@
  #### Video speed controller task. HTML/CSS/JS
  https://it-my-github.github.io/rsschool-upskill-tasks/video-speed-controller/
  
+ #### Whack a Mole game task. HTML/CSS/JS
+ https://it-my-github.github.io/rsschool-upskill-tasks/whack-a-mole-game/
+ 
  
  
