@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="src/images/icons22.png" type="image/x-icon" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Texturina:wght@200&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/reset_styles.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>CSS Variables and JS</title>
+  </head>
+  <body>
+    <section class="app">
+      <div class="wrapper">
+        <div class="app__controls">
+          <h1>Photo filters</h1>
+
+          <label>
+            Background Color: 
+            <input
+              type="color"
+              name="base"
+              value="#088cbc"
+            />
+          </label>
+
+          <label>
+            Photo Size: <br>
+            <input
+              type="range"
+              name="size"
+              min="20"
+              max="100"
+              value="50"
+              data-sizing="%"
+            />
+          </label>
+
+          <label>
+            Blur: <br>
+            <input
+              type="range"
+              name="blur"
+              min="0"
+              max="6"
+              value="0"
+              data-sizing="px"
+            />
+          </label>
+
+          <label>
+            Inversion: <br>
+            <input
+              type="range"
+              name="inversion"
+              min="0"
+              max="100"
+              value="0"
+              data-sizing="%"
+            />
+          </label>
+
+          <label>
+            Sepia: <br>
+            <input
+              type="range"
+              name="sepia"
+              min="0"
+              max="100"
+              value="0"
+              data-sizing="%"
+            />
+          </label>
+            
+          <label>
+            Saturation: <br>
+            <input
+              type="range"
+              name="saturation"
+              min="0"
+              max="100"
+              value="100"
+              data-sizing="%"
+            />
+          </label>
+
+          <label>
+            Shade: <br>
+            <input
+              type="range"
+              name="shade"
+              min="0"
+              max="360"
+              value="0"
+              data-sizing="deg"
+            />
+          </label>
+        </div>
+
+        <div class="app__image">
+            <img src="src/images/Audi-A8-1920px.jpg" alt="photo">
+        </div>
+
+      </div>
+    </section>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>
