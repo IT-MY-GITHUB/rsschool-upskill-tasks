@@ -2,7 +2,7 @@
 ### Here are the projects made during training at UpSkill
 <hr/>
  
- #### Singolo layout from Figma. HTML/CSS/JS 
+ #### Singolo layout from Figma. HTML/CSS(Flex+Grid)/JS 
  https://it-my-github.github.io/rsschool-upskill-tasks/singolo
  
  #### Css variables task. HTML/CSS
@@ -19,6 +19,9 @@
  
  #### Dynamic landing page task. HTML/CSS/JS/localStorage
  https://it-my-github.github.io/rsschool-upskill-tasks/dynamic-landing-page/
+ 
+ #### Calculator. HTML/CSS(Grid)/JS
+ https://it-my-github.github.io/rsschool-upskill-tasks/calculator/
  
  
  
