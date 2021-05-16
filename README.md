@@ -23,5 +23,8 @@
  #### Calculator. HTML/CSS(Grid)/JS
  https://it-my-github.github.io/rsschool-upskill-tasks/calculator/
  
+ #### Video speed controller task. HTML/CSS/JS
+ https://it-my-github.github.io/rsschool-upskill-tasks/video-speed-controller/
+ 
  
  
