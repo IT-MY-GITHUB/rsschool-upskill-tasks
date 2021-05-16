@@ -35,5 +35,8 @@
  #### Workout simple landing page layout. HTML/CSS
  https://it-my-github.github.io/rsschool-upskill-tasks/landing-page-lapkin-persona/
  
+ #### Simple landing Tinyone. HTML/CSS/Bootstrap
+ https://it-my-github.github.io/rsschool-upskill-tasks/landing-page-tinyone/
+ 
  
  
