@@ -1,5 +1,5 @@
 # rsschool-upskill-tasks
-### Here are the projects made during training at UpSkill
+### Here are the projects made during training at UpSkill Lab by EPAM
 <hr/>
  
  #### Singolo layout from Figma. HTML/CSS(Flex+Grid)/JS 
